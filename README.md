@@ -2,6 +2,7 @@
 设置方法：
 
 单击下面的按钮即可在您的 Vercel 帐户上部署 Apprise。还没注册的可以选择github登陆然后绑定手机即可
+
 [![使用 Vercel 进行部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/amclubs/apprise_vercel)
 
 
